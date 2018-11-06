@@ -1,4 +1,4 @@
-# mono [![](https://circleci.com/gh/omrilotan/mono.svg?style=svg)](https://circleci.com/build-insights/gh/omrilotan/mono/master)
+## mono [![](https://circleci.com/gh/omrilotan/mono.svg?style=svg)](https://circleci.com/build-insights/gh/omrilotan/mono/master)
 Mono repo holding multiple packages
 
 ## TOC
